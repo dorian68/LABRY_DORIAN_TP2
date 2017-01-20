@@ -1,0 +1,50 @@
+body {
+	background: blue;
+	 background-image: url(ina.jpg);
+	 background-size:100%;
+}
+#car{
+		margin-left:200px;
+}
+#flex-container{
+	font-size:400px;
+}
+
+#rental{
+	margin-left:350px;
+}
+
+
+.model{
+	border-radius:5000px;
+	width:150px;
+}
+.price-by-day{
+	border-radius:5000px;
+		width:150px;
+}
+.price-by-km{
+	border-radius:5000px;
+		width:150px;
+}
+.begin{
+	border-radius:5000px;
+		width:150px;
+}
+.end{
+	border-radius:5000px;
+		width:150px;
+}
+.distance{
+	border-radius:5000px;
+		width:150px;
+}
+.option{
+	border-radius:5000px;
+		width:150px;
+}
+.flex-container{
+	text-align:center;
+}
+
+
